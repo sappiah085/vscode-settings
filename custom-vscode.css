@@ -100,8 +100,8 @@
 .monaco-editor-hover,
 .monaco-hover {
   box-shadow: 0px 8px 32px rgba(0, 0, 0, 0.45) !important;
-  padding: 10px !important;
-  background-image: linear-gradient(#3c3c50 0%, #2a2b38 100%) !important;
+  /* padding: 10px !important; */
+  background-image: linear-gradient(#191515 0%, #191515 100%) !important;
   backdrop-filter: blur(3px) !important;
   border-radius: 10px !important;
   border: none !important;
@@ -219,7 +219,7 @@
 }
 
 .letterpress {
-  background-image: url(./art.svg) !important;
+  background-image: url(/Users/realmann/Documents/settings/art.svg) !important;
   background-repeat: no-repeat no-repeat !important;
   background-position: center center !important;
   background-size: contain !important;
